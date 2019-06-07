@@ -460,7 +460,7 @@ void sum0graph(struct Graph* graph){
 
 // 测试
 int main() {
-	// 创建上一讲：http://www.acmerblog.com/dijkstra-shortest-path-algorithm-5876.html 例子中的图
+	// 创建图
 	// ifp = fopen(argv[1],"r");
 	FILE	*ifp, *ofp;
 	// ifp = fopen("topofile.txt","r");
